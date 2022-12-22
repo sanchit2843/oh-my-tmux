@@ -18,11 +18,11 @@ Requirements:
 To install, run the following from your terminal: (you may want to backup your
 existing `~/.tmux.conf` first)
 
-```
-$ cd
-$ git clone https://github.com/gpakosz/.tmux.git
-$ ln -s -f .tmux/.tmux.conf
-$ cp .tmux/.tmux.conf.local .
+```bash
+cd
+git clone https://github.com/gpakosz/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
 ```
 
 💡 You can clone the repository anywhere you want, provided you create the
